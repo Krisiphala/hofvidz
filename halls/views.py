@@ -14,7 +14,7 @@ import urllib
 import requests
 
 
-YOUTUBE_API_KEY = "AIzaSyBwI0wjswAdjpj26UfBVOGXn6Nx0S2RKlE"
+YOUTUBE_API_KEY = ""
 
 # Create your views here.
 def home(request):
